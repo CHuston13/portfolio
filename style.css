@@ -1,0 +1,24 @@
+
+
+#effect{
+    background-image: linear-gradient(0deg, #000000, #4452cc);
+   background-clip: text;
+   color: transparent;
+   
+    
+}
+
+
+#aboutButton{
+    
+
+  position: sticky;
+  top: 0;
+  background: transparent;
+  border: none;
+  background-color: transparent;
+  padding: 40px;
+  font-size: 25px;
+
+}
+
