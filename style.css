@@ -22,3 +22,8 @@
 
 }
 
+#projectOne{
+  background: url(./wave.png);
+  height: 40vh;
+  width: 40vw;
+}
